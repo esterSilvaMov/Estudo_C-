@@ -1,0 +1,15 @@
+D:\Estudos\OrientaçãoObj\bytbank\bytbank\bin\Debug\net6.0\bytebank.exe
+D:\Estudos\OrientaçãoObj\bytbank\bytbank\bin\Debug\net6.0\bytebank.deps.json
+D:\Estudos\OrientaçãoObj\bytbank\bytbank\bin\Debug\net6.0\bytebank.runtimeconfig.json
+D:\Estudos\OrientaçãoObj\bytbank\bytbank\bin\Debug\net6.0\bytebank.dll
+D:\Estudos\OrientaçãoObj\bytbank\bytbank\bin\Debug\net6.0\bytebank.pdb
+D:\Estudos\OrientaçãoObj\bytbank\bytbank\obj\Debug\net6.0\bytebank.csproj.AssemblyReference.cache
+D:\Estudos\OrientaçãoObj\bytbank\bytbank\obj\Debug\net6.0\bytebank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\OrientaçãoObj\bytbank\bytbank\obj\Debug\net6.0\bytebank.AssemblyInfoInputs.cache
+D:\Estudos\OrientaçãoObj\bytbank\bytbank\obj\Debug\net6.0\bytebank.AssemblyInfo.cs
+D:\Estudos\OrientaçãoObj\bytbank\bytbank\obj\Debug\net6.0\bytebank.csproj.CoreCompileInputs.cache
+D:\Estudos\OrientaçãoObj\bytbank\bytbank\obj\Debug\net6.0\bytebank.dll
+D:\Estudos\OrientaçãoObj\bytbank\bytbank\obj\Debug\net6.0\refint\bytebank.dll
+D:\Estudos\OrientaçãoObj\bytbank\bytbank\obj\Debug\net6.0\bytebank.pdb
+D:\Estudos\OrientaçãoObj\bytbank\bytbank\obj\Debug\net6.0\bytebank.genruntimeconfig.cache
+D:\Estudos\OrientaçãoObj\bytbank\bytbank\obj\Debug\net6.0\ref\bytebank.dll
