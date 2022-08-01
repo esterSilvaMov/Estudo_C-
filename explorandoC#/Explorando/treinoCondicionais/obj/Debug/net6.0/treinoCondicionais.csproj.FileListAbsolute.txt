@@ -1,0 +1,15 @@
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\treinoCondicionais\bin\Debug\net6.0\treinoCondicionais.exe
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\treinoCondicionais\bin\Debug\net6.0\treinoCondicionais.deps.json
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\treinoCondicionais\bin\Debug\net6.0\treinoCondicionais.runtimeconfig.json
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\treinoCondicionais\bin\Debug\net6.0\treinoCondicionais.dll
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\treinoCondicionais\bin\Debug\net6.0\treinoCondicionais.pdb
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\treinoCondicionais\obj\Debug\net6.0\treinoCondicionais.csproj.AssemblyReference.cache
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\treinoCondicionais\obj\Debug\net6.0\treinoCondicionais.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\treinoCondicionais\obj\Debug\net6.0\treinoCondicionais.AssemblyInfoInputs.cache
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\treinoCondicionais\obj\Debug\net6.0\treinoCondicionais.AssemblyInfo.cs
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\treinoCondicionais\obj\Debug\net6.0\treinoCondicionais.csproj.CoreCompileInputs.cache
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\treinoCondicionais\obj\Debug\net6.0\treinoCondicionais.dll
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\treinoCondicionais\obj\Debug\net6.0\refint\treinoCondicionais.dll
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\treinoCondicionais\obj\Debug\net6.0\treinoCondicionais.pdb
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\treinoCondicionais\obj\Debug\net6.0\treinoCondicionais.genruntimeconfig.cache
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\treinoCondicionais\obj\Debug\net6.0\ref\treinoCondicionais.dll

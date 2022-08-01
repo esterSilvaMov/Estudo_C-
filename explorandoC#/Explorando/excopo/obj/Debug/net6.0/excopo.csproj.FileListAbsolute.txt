@@ -1,0 +1,15 @@
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\excopo\obj\Debug\net6.0\excopo.csproj.AssemblyReference.cache
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\excopo\obj\Debug\net6.0\excopo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\excopo\obj\Debug\net6.0\excopo.AssemblyInfoInputs.cache
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\excopo\obj\Debug\net6.0\excopo.AssemblyInfo.cs
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\excopo\obj\Debug\net6.0\excopo.csproj.CoreCompileInputs.cache
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\excopo\bin\Debug\net6.0\excopo.exe
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\excopo\bin\Debug\net6.0\excopo.deps.json
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\excopo\bin\Debug\net6.0\excopo.runtimeconfig.json
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\excopo\bin\Debug\net6.0\excopo.dll
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\excopo\bin\Debug\net6.0\excopo.pdb
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\excopo\obj\Debug\net6.0\excopo.dll
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\excopo\obj\Debug\net6.0\refint\excopo.dll
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\excopo\obj\Debug\net6.0\excopo.pdb
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\excopo\obj\Debug\net6.0\excopo.genruntimeconfig.cache
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\excopo\obj\Debug\net6.0\ref\excopo.dll

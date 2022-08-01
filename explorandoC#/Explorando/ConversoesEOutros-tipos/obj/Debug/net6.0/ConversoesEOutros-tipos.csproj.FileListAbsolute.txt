@@ -1,0 +1,15 @@
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\ConversoesEOutros-tipos\bin\Debug\net6.0\ConversoesEOutros-tipos.exe
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\ConversoesEOutros-tipos\bin\Debug\net6.0\ConversoesEOutros-tipos.deps.json
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\ConversoesEOutros-tipos\bin\Debug\net6.0\ConversoesEOutros-tipos.runtimeconfig.json
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\ConversoesEOutros-tipos\bin\Debug\net6.0\ConversoesEOutros-tipos.dll
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\ConversoesEOutros-tipos\bin\Debug\net6.0\ConversoesEOutros-tipos.pdb
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\ConversoesEOutros-tipos\obj\Debug\net6.0\ConversoesEOutros-tipos.csproj.AssemblyReference.cache
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\ConversoesEOutros-tipos\obj\Debug\net6.0\ConversoesEOutros-tipos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\ConversoesEOutros-tipos\obj\Debug\net6.0\ConversoesEOutros-tipos.AssemblyInfoInputs.cache
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\ConversoesEOutros-tipos\obj\Debug\net6.0\ConversoesEOutros-tipos.AssemblyInfo.cs
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\ConversoesEOutros-tipos\obj\Debug\net6.0\ConversoesEOutros-tipos.csproj.CoreCompileInputs.cache
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\ConversoesEOutros-tipos\obj\Debug\net6.0\ConversoesEOutros-tipos.dll
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\ConversoesEOutros-tipos\obj\Debug\net6.0\refint\ConversoesEOutros-tipos.dll
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\ConversoesEOutros-tipos\obj\Debug\net6.0\ConversoesEOutros-tipos.pdb
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\ConversoesEOutros-tipos\obj\Debug\net6.0\ConversoesEOutros-tipos.genruntimeconfig.cache
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\ConversoesEOutros-tipos\obj\Debug\net6.0\ref\ConversoesEOutros-tipos.dll

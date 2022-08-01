@@ -1,0 +1,15 @@
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\atribuiçoesDeVariaveis\bin\Debug\net6.0\atribuiçoesDeVariaveis.exe
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\atribuiçoesDeVariaveis\bin\Debug\net6.0\atribuiçoesDeVariaveis.deps.json
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\atribuiçoesDeVariaveis\bin\Debug\net6.0\atribuiçoesDeVariaveis.runtimeconfig.json
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\atribuiçoesDeVariaveis\bin\Debug\net6.0\atribuiçoesDeVariaveis.dll
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\atribuiçoesDeVariaveis\bin\Debug\net6.0\atribuiçoesDeVariaveis.pdb
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\atribuiçoesDeVariaveis\obj\Debug\net6.0\atribuiçoesDeVariaveis.csproj.AssemblyReference.cache
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\atribuiçoesDeVariaveis\obj\Debug\net6.0\atribuiçoesDeVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\atribuiçoesDeVariaveis\obj\Debug\net6.0\atribuiçoesDeVariaveis.AssemblyInfoInputs.cache
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\atribuiçoesDeVariaveis\obj\Debug\net6.0\atribuiçoesDeVariaveis.AssemblyInfo.cs
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\atribuiçoesDeVariaveis\obj\Debug\net6.0\atribuiçoesDeVariaveis.csproj.CoreCompileInputs.cache
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\atribuiçoesDeVariaveis\obj\Debug\net6.0\atribuiçoesDeVariaveis.dll
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\atribuiçoesDeVariaveis\obj\Debug\net6.0\refint\atribuiçoesDeVariaveis.dll
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\atribuiçoesDeVariaveis\obj\Debug\net6.0\atribuiçoesDeVariaveis.pdb
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\atribuiçoesDeVariaveis\obj\Debug\net6.0\atribuiçoesDeVariaveis.genruntimeconfig.cache
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\atribuiçoesDeVariaveis\obj\Debug\net6.0\ref\atribuiçoesDeVariaveis.dll
