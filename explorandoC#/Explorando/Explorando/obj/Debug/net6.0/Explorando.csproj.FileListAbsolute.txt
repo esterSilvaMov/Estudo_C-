@@ -1,0 +1,15 @@
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\Explorando\bin\Debug\net6.0\Explorando.exe
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\Explorando\bin\Debug\net6.0\Explorando.deps.json
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\Explorando\bin\Debug\net6.0\Explorando.runtimeconfig.json
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\Explorando\bin\Debug\net6.0\Explorando.dll
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\Explorando\bin\Debug\net6.0\Explorando.pdb
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\Explorando\obj\Debug\net6.0\Explorando.csproj.AssemblyReference.cache
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\Explorando\obj\Debug\net6.0\Explorando.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\Explorando\obj\Debug\net6.0\Explorando.AssemblyInfoInputs.cache
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\Explorando\obj\Debug\net6.0\Explorando.AssemblyInfo.cs
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\Explorando\obj\Debug\net6.0\Explorando.csproj.CoreCompileInputs.cache
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\Explorando\obj\Debug\net6.0\Explorando.dll
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\Explorando\obj\Debug\net6.0\refint\Explorando.dll
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\Explorando\obj\Debug\net6.0\Explorando.pdb
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\Explorando\obj\Debug\net6.0\Explorando.genruntimeconfig.cache
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\Explorando\obj\Debug\net6.0\ref\Explorando.dll

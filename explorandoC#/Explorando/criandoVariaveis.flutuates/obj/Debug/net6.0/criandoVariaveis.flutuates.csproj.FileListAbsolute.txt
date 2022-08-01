@@ -1,0 +1,15 @@
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\criandoVariaveis.flutuates\bin\Debug\net6.0\criandoVariaveis.flutuates.exe
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\criandoVariaveis.flutuates\bin\Debug\net6.0\criandoVariaveis.flutuates.deps.json
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\criandoVariaveis.flutuates\bin\Debug\net6.0\criandoVariaveis.flutuates.runtimeconfig.json
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\criandoVariaveis.flutuates\bin\Debug\net6.0\criandoVariaveis.flutuates.dll
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\criandoVariaveis.flutuates\bin\Debug\net6.0\criandoVariaveis.flutuates.pdb
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\criandoVariaveis.flutuates\obj\Debug\net6.0\criandoVariaveis.flutuates.csproj.AssemblyReference.cache
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\criandoVariaveis.flutuates\obj\Debug\net6.0\criandoVariaveis.flutuates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\criandoVariaveis.flutuates\obj\Debug\net6.0\criandoVariaveis.flutuates.AssemblyInfoInputs.cache
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\criandoVariaveis.flutuates\obj\Debug\net6.0\criandoVariaveis.flutuates.AssemblyInfo.cs
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\criandoVariaveis.flutuates\obj\Debug\net6.0\criandoVariaveis.flutuates.csproj.CoreCompileInputs.cache
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\criandoVariaveis.flutuates\obj\Debug\net6.0\criandoVariaveis.flutuates.dll
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\criandoVariaveis.flutuates\obj\Debug\net6.0\refint\criandoVariaveis.flutuates.dll
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\criandoVariaveis.flutuates\obj\Debug\net6.0\criandoVariaveis.flutuates.pdb
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\criandoVariaveis.flutuates\obj\Debug\net6.0\criandoVariaveis.flutuates.genruntimeconfig.cache
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\criandoVariaveis.flutuates\obj\Debug\net6.0\ref\criandoVariaveis.flutuates.dll
