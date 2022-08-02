@@ -1,0 +1,15 @@
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\encadeandoFor\bin\Debug\net6.0\encadeandoFor.exe
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\encadeandoFor\bin\Debug\net6.0\encadeandoFor.deps.json
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\encadeandoFor\bin\Debug\net6.0\encadeandoFor.runtimeconfig.json
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\encadeandoFor\bin\Debug\net6.0\encadeandoFor.dll
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\encadeandoFor\bin\Debug\net6.0\encadeandoFor.pdb
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\encadeandoFor\obj\Debug\net6.0\encadeandoFor.csproj.AssemblyReference.cache
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\encadeandoFor\obj\Debug\net6.0\encadeandoFor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\encadeandoFor\obj\Debug\net6.0\encadeandoFor.AssemblyInfoInputs.cache
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\encadeandoFor\obj\Debug\net6.0\encadeandoFor.AssemblyInfo.cs
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\encadeandoFor\obj\Debug\net6.0\encadeandoFor.csproj.CoreCompileInputs.cache
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\encadeandoFor\obj\Debug\net6.0\encadeandoFor.dll
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\encadeandoFor\obj\Debug\net6.0\refint\encadeandoFor.dll
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\encadeandoFor\obj\Debug\net6.0\encadeandoFor.pdb
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\encadeandoFor\obj\Debug\net6.0\encadeandoFor.genruntimeconfig.cache
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\encadeandoFor\obj\Debug\net6.0\ref\encadeandoFor.dll

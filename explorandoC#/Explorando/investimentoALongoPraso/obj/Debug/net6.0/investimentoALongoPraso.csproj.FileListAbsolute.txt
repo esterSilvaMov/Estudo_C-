@@ -1,0 +1,15 @@
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\investimentoALongoPraso\bin\Debug\net6.0\investimentoALongoPraso.exe
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\investimentoALongoPraso\bin\Debug\net6.0\investimentoALongoPraso.deps.json
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\investimentoALongoPraso\bin\Debug\net6.0\investimentoALongoPraso.runtimeconfig.json
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\investimentoALongoPraso\bin\Debug\net6.0\investimentoALongoPraso.dll
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\investimentoALongoPraso\bin\Debug\net6.0\investimentoALongoPraso.pdb
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\investimentoALongoPraso\obj\Debug\net6.0\investimentoALongoPraso.csproj.AssemblyReference.cache
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\investimentoALongoPraso\obj\Debug\net6.0\investimentoALongoPraso.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\investimentoALongoPraso\obj\Debug\net6.0\investimentoALongoPraso.AssemblyInfoInputs.cache
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\investimentoALongoPraso\obj\Debug\net6.0\investimentoALongoPraso.AssemblyInfo.cs
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\investimentoALongoPraso\obj\Debug\net6.0\investimentoALongoPraso.csproj.CoreCompileInputs.cache
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\investimentoALongoPraso\obj\Debug\net6.0\investimentoALongoPraso.dll
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\investimentoALongoPraso\obj\Debug\net6.0\refint\investimentoALongoPraso.dll
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\investimentoALongoPraso\obj\Debug\net6.0\investimentoALongoPraso.pdb
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\investimentoALongoPraso\obj\Debug\net6.0\investimentoALongoPraso.genruntimeconfig.cache
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\investimentoALongoPraso\obj\Debug\net6.0\ref\investimentoALongoPraso.dll

@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CauculoDEPoupança", "Caucu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "laçoDeRepetiçãoFor", "laçoDeRepetiçãoFor\laçoDeRepetiçãoFor.csproj", "{C2F5C4F4-6CE3-4764-B689-AECBC9AE9520}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "investimentoALongoPraso", "investimentoALongoPraso\investimentoALongoPraso.csproj", "{82B5D403-0E79-4C3B-8FA5-F48C492DD4F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "encadeandoFor", "encadeandoFor\encadeandoFor.csproj", "{77A702AA-16E0-40FF-9081-98F3D151CAC1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{C2F5C4F4-6CE3-4764-B689-AECBC9AE9520}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2F5C4F4-6CE3-4764-B689-AECBC9AE9520}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2F5C4F4-6CE3-4764-B689-AECBC9AE9520}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82B5D403-0E79-4C3B-8FA5-F48C492DD4F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82B5D403-0E79-4C3B-8FA5-F48C492DD4F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82B5D403-0E79-4C3B-8FA5-F48C492DD4F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82B5D403-0E79-4C3B-8FA5-F48C492DD4F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77A702AA-16E0-40FF-9081-98F3D151CAC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77A702AA-16E0-40FF-9081-98F3D151CAC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77A702AA-16E0-40FF-9081-98F3D151CAC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77A702AA-16E0-40FF-9081-98F3D151CAC1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
