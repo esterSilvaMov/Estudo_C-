@@ -1,0 +1,15 @@
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\laçoDeRepetiçãoFor\bin\Debug\net6.0\laçoDeRepetiçãoFor.exe
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\laçoDeRepetiçãoFor\bin\Debug\net6.0\laçoDeRepetiçãoFor.deps.json
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\laçoDeRepetiçãoFor\bin\Debug\net6.0\laçoDeRepetiçãoFor.runtimeconfig.json
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\laçoDeRepetiçãoFor\bin\Debug\net6.0\laçoDeRepetiçãoFor.dll
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\laçoDeRepetiçãoFor\bin\Debug\net6.0\laçoDeRepetiçãoFor.pdb
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\laçoDeRepetiçãoFor\obj\Debug\net6.0\laçoDeRepetiçãoFor.csproj.AssemblyReference.cache
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\laçoDeRepetiçãoFor\obj\Debug\net6.0\laçoDeRepetiçãoFor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\laçoDeRepetiçãoFor\obj\Debug\net6.0\laçoDeRepetiçãoFor.AssemblyInfoInputs.cache
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\laçoDeRepetiçãoFor\obj\Debug\net6.0\laçoDeRepetiçãoFor.AssemblyInfo.cs
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\laçoDeRepetiçãoFor\obj\Debug\net6.0\laçoDeRepetiçãoFor.csproj.CoreCompileInputs.cache
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\laçoDeRepetiçãoFor\obj\Debug\net6.0\laçoDeRepetiçãoFor.dll
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\laçoDeRepetiçãoFor\obj\Debug\net6.0\refint\laçoDeRepetiçãoFor.dll
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\laçoDeRepetiçãoFor\obj\Debug\net6.0\laçoDeRepetiçãoFor.pdb
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\laçoDeRepetiçãoFor\obj\Debug\net6.0\laçoDeRepetiçãoFor.genruntimeconfig.cache
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\laçoDeRepetiçãoFor\obj\Debug\net6.0\ref\laçoDeRepetiçãoFor.dll

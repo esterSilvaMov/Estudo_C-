@@ -1,0 +1,15 @@
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\CauculoDEPoupança\bin\Debug\net6.0\CauculoDEPoupança.exe
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\CauculoDEPoupança\bin\Debug\net6.0\CauculoDEPoupança.deps.json
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\CauculoDEPoupança\bin\Debug\net6.0\CauculoDEPoupança.runtimeconfig.json
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\CauculoDEPoupança\bin\Debug\net6.0\CauculoDEPoupança.dll
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\CauculoDEPoupança\bin\Debug\net6.0\CauculoDEPoupança.pdb
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\CauculoDEPoupança\obj\Debug\net6.0\CauculoDEPoupança.csproj.AssemblyReference.cache
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\CauculoDEPoupança\obj\Debug\net6.0\CauculoDEPoupança.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\CauculoDEPoupança\obj\Debug\net6.0\CauculoDEPoupança.AssemblyInfoInputs.cache
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\CauculoDEPoupança\obj\Debug\net6.0\CauculoDEPoupança.AssemblyInfo.cs
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\CauculoDEPoupança\obj\Debug\net6.0\CauculoDEPoupança.csproj.CoreCompileInputs.cache
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\CauculoDEPoupança\obj\Debug\net6.0\CauculoDEPoupança.dll
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\CauculoDEPoupança\obj\Debug\net6.0\refint\CauculoDEPoupança.dll
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\CauculoDEPoupança\obj\Debug\net6.0\CauculoDEPoupança.pdb
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\CauculoDEPoupança\obj\Debug\net6.0\CauculoDEPoupança.genruntimeconfig.cache
+D:\Estudos\conhecendoC#\explorandoC#\Explorando\CauculoDEPoupança\obj\Debug\net6.0\ref\CauculoDEPoupança.dll

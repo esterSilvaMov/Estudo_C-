@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "treinoCondicionais", "trein
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "excopo", "excopo\excopo.csproj", "{2AE09ED5-3821-48AB-A758-4DBCA9922F29}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CauculoDEPoupança", "CauculoDEPoupança\CauculoDEPoupança.csproj", "{BB42034E-0662-4103-A701-490582573E3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "laçoDeRepetiçãoFor", "laçoDeRepetiçãoFor\laçoDeRepetiçãoFor.csproj", "{C2F5C4F4-6CE3-4764-B689-AECBC9AE9520}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{2AE09ED5-3821-48AB-A758-4DBCA9922F29}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2AE09ED5-3821-48AB-A758-4DBCA9922F29}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2AE09ED5-3821-48AB-A758-4DBCA9922F29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB42034E-0662-4103-A701-490582573E3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB42034E-0662-4103-A701-490582573E3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB42034E-0662-4103-A701-490582573E3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB42034E-0662-4103-A701-490582573E3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2F5C4F4-6CE3-4764-B689-AECBC9AE9520}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2F5C4F4-6CE3-4764-B689-AECBC9AE9520}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2F5C4F4-6CE3-4764-B689-AECBC9AE9520}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2F5C4F4-6CE3-4764-B689-AECBC9AE9520}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
